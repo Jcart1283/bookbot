@@ -1,2 +1,4 @@
 books
 .vscode
+*.pyc
+__pycache__/
